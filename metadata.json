@@ -1,0 +1,6 @@
+{
+  "name": "Deviation Settlement Mechanism (DSM) Calculator",
+  "description": "Calculate and manage the deviation settlement for various power plants based on CERC DSM Regulations 2024.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
